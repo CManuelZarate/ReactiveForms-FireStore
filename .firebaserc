@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tarjetacredito-30d70": {
+      "hosting": {
+        "TarjetaCredito": [
+          "tarjetacredito-30d70"
+        ]
+      }
+    }
+  }
+}
